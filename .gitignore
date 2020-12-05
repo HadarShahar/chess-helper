@@ -1,0 +1,5 @@
+secrets.py
+.idea/
+__MACOSX/
+__pycache__/
+chess_helper.exe
